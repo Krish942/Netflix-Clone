@@ -1,0 +1,6 @@
+{
+  "files.simpleDialog.enable": true,
+  "files.exclude": {
+    "**/.git": false
+  }
+}
